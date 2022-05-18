@@ -43,15 +43,15 @@ Hi! Introducing, my name is Reza... I come from Indonesia in Jakarta. I've been 
     <a href="https://github.com/ezazee/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ezazee streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ezazee&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-</p>
+
 
 ## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/ezazee/github-readme-stats"><img alt="ezazee Github Stats" src="https://github-readme-stats.vercel.app/api?username=ezazee&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<!--     
-  <a href="https://github.com/ezazee/github-readme-stats"><img alt="ezazee Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezazee&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
+  <a href="https://github.com/ezazee/github-readme-stats"><img alt="ezazee Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezazee&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+ </p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
@@ -73,8 +73,8 @@ Hi! Introducing, my name is Reza... I come from Indonesia in Jakarta. I've been 
 
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+## ✌ Views and Followers
+<a href="https://github.com/ezazee/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ezazee">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/ezazee?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
