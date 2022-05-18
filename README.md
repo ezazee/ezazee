@@ -40,9 +40,9 @@ Hi! Introducing, my name is Reza... I come from Indonesia in Jakarta. I've been 
 <br/>
 
 <p align="center">
-    <a href="https://github.com/ezazee/github-readme-streak-stats">
+<!--     <a href="https://github.com/ezazee/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ezazee streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ezazee&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    </a> -->
 
 
 ## 📊 My Github Stats
