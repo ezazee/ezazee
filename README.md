@@ -14,8 +14,6 @@ Hi! Introducing, my name is Reza... I come from Indonesia in Jakarta. I've been 
 
 - 🌱 I’m currently **Learning Flutter**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
-
 - 📫 How to reach me **rezzarap24@gmail.com**
 
 - ⚡ Fun fact **I play games to calm my mind a little.**
