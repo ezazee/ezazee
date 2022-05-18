@@ -33,7 +33,12 @@ Hi! Introducing, my name is Reza... I come from Indonesia in Jakarta. I've been 
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> </a>
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/> </a>
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/> </a>
+ 
+ <br>
+<br>
+  <b>Note:</b> Part of the language and tools I use in the learning process.
 </p>
+
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
@@ -51,7 +56,7 @@ Hi! Introducing, my name is Reza... I come from Indonesia in Jakarta. I've been 
   <a href="https://github.com/ezazee/github-readme-stats"><img alt="ezazee Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezazee&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
  </p>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 
 
 <br/>
@@ -65,11 +70,11 @@ Hi! Introducing, my name is Reza... I come from Indonesia in Jakarta. I've been 
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
+<a href = "https://www.linkedin.com/in/rezzaaf-eza-65879b220/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/mrzsaa_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/profile.php?id=100038138281883"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+<a href = "https://dribbble.com/ezazee"><img src="https://img.icons8.com/fluency/48/000000/dribbble.png"/></a>
+<a href = "https://www.behance.net/rezzaafrezza"><img src="https://img.icons8.com/color/48/000000/behance.png"/></a>
 </p>
 
 ## ✌ Views and Followers
