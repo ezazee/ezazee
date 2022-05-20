@@ -69,11 +69,11 @@ Hi! Introducing, my name is Reza... I come from Indonesia in Jakarta. I've been 
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/rezzaaf-eza-65879b220/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/mrzsaa_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/profile.php?id=100038138281883"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
-<a href = "https://dribbble.com/ezazee"><img src="https://img.icons8.com/fluency/48/000000/dribbble.png"/></a>
-<a href = "https://www.behance.net/rezzaafrezza"><img src="https://img.icons8.com/color/48/000000/behance.png"/></a>
+<a target = "_blank" href = "https://www.linkedin.com/in/mohamad-reza-65879b220/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a target = "_blank" href = "https://www.instagram.com/mrzsaa_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a target = "_blank" href = "https://www.facebook.com/profile.php?id=100038138281883"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+<a target = "_blank" href = "https://dribbble.com/ezazee"><img src="https://img.icons8.com/fluency/48/000000/dribbble.png"/></a>
+<a target = "_blank" href = "https://www.behance.net/rezzaafrezza"><img src="https://img.icons8.com/color/48/000000/behance.png"/></a>
 </p>
 
 ## ✌ Views and Followers
