@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/97/e9/79/97e979731beadb50be38e6e273ebfeef.gif" height="175px"/></a>
 
 <h1 align="center">Hi 👋, I'm Reza</h1>
-<h3 align="center">I'm UI Designer & Front End Developer From Indonesia</h3>
+<h3 align="center">I'm UI Designer & Beginer Front End Developer From Indonesia</h3>
 
 
 ## 🙋‍♂️ About Me
