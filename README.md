@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-Hi! Introducing, my name is Reza... I come from Indonesia in Jakarta. I've been into programming since 2021 because it's fun, solving problems with code.... Now I work in a technology company that has been in Jakarta since 2022 
+Hi! Introducing, my name is Reza... I come from Indonesia in Jakarta. I've been into programming since 2021 because it's fun, solving problems with code.
 
  And this is Me :
 
