@@ -10,7 +10,7 @@ Hi! Introducing, my name is Reza... I come from Indonesia in Jakarta. I've been 
 
  And this is Me :
 
-- 🔭 I’m currently working on **PT.EKA MANDIRI ASA SEJATI** in Jakarta - Indonesia
+- 🔭 I’m Searching for working 🚀
 
 - 🌱 I’m currently **Learning Flutter**
 
