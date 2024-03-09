@@ -27,7 +27,6 @@ Hi! Introducing, my name is Reza... I come from Indonesia in Jakarta. I've been 
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a>
     <a href="#" target="_blank"> <img src="https://img.icons8.com/office/48/000000/react.png"/> </a>
     <a href="#" target="_blank"> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> </a>
-    <a href="#" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-shadow-tal-revivo.png"/> </a>
     <a href="#" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> </a>
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
     <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> </a>
