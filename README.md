@@ -1,4 +1,9 @@
-<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/97/e9/79/97e979731beadb50be38e6e273ebfeef.gif" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/3d/10/70/3d107051edc483aa19762c8c33260acb.gif" height="175px"/></a>
+
+
+<!-- GIF Sebelumnya -->
+<!-- https://i.pinimg.com/originals/97/e9/79/97e979731beadb50be38e6e273ebfeef.gif -->
+
 
 <h1 align="center">Hi 👋, I'm Reza</h1>
 <h3 align="center">I'm UI Designer & Beginer Front End Developer From Indonesia</h3>
